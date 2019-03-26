@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-aafD
-=======
-aaaa
->>>>>>> branch 'master' of https://github.com/JRLE1/gft-practica
+aafDCONFL
